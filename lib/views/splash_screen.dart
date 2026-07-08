@@ -103,7 +103,7 @@ class _SplashScreenState extends State<SplashScreen>
                 const SizedBox(height: 30),
 
                 const Text(
-                  "StudentSphere",
+                  "StudentSpher",
                   style: TextStyle(
                     color: Colors.white,
                     fontSize: 36,
