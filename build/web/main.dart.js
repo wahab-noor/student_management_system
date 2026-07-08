@@ -82429,8 +82429,8 @@ r=s.f
 r.O$=q
 r.J$=0
 s.aF()},
-K(a){var s=this,r=null,q=A.WO(r,!0,r,r,r,r,r,B.TG),p=A.ny(r,B.Dc,B.E,r,new A.dX(r,r,r,A.ek(20),r,B.k7,B.bo),r,r,r,B.cb,r,r,1/0),o=A.ek(20),n=t.D
-return A.Lh(q,B.iW,A.avr(A.iw(A.c([p,B.l3,A.GT(new A.bU(B.cb,A.iw(A.c([A.tw(r,s.d,A.o6(r,new A.er(4,A.ek(15),B.cs),r,r,r,r,r,r,!0,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,"Student Name",!0,!0,!1,r,B.nz,r,r,r,r,r,r,r,r,r,r,r,r),!0,r,r,r,r,r),B.hW,A.tw(r,s.e,A.o6(r,new A.er(4,A.ek(15),B.cs),r,r,r,r,r,r,!0,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,"Department",!0,!0,!1,r,B.ny,r,r,r,r,r,r,r,r,r,r,r,r),!0,r,r,r,r,r),B.hW,A.tw(r,s.f,A.o6(r,new A.er(4,A.ek(15),B.cs),r,r,r,r,r,r,!0,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,"Email",!0,!0,!1,r,B.nA,r,r,r,r,r,r,r,r,r,r,r,r),!0,r,B.lc,r,r,r),B.yI,A.ho(A.apm(B.TF,s.gWL(),A.atr(r,r,B.cd,r,r,r,r,r,r,r,r,r,r,r,new A.c4(A.ek(15),B.q),r,r,r,r,r)),55,1/0)],n),B.aa,B.al,B.b5),r),8,r,new A.c4(o,B.q))],n),B.aa,B.al,B.b5),B.cb),r)}}
+K(a){var s=this,r=null,q=A.WO(r,!0,r,r,r,r,r,B.TH),p=A.ny(r,B.Dc,B.E,r,new A.dX(r,r,r,A.ek(20),r,B.k7,B.bo),r,r,r,B.cb,r,r,1/0),o=A.ek(20),n=t.D
+return A.Lh(q,B.iW,A.avr(A.iw(A.c([p,B.l3,A.GT(new A.bU(B.cb,A.iw(A.c([A.tw(r,s.d,A.o6(r,new A.er(4,A.ek(15),B.cs),r,r,r,r,r,r,!0,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,"Student Name",!0,!0,!1,r,B.nz,r,r,r,r,r,r,r,r,r,r,r,r),!0,r,r,r,r,r),B.hW,A.tw(r,s.e,A.o6(r,new A.er(4,A.ek(15),B.cs),r,r,r,r,r,r,!0,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,"Department",!0,!0,!1,r,B.ny,r,r,r,r,r,r,r,r,r,r,r,r),!0,r,r,r,r,r),B.hW,A.tw(r,s.f,A.o6(r,new A.er(4,A.ek(15),B.cs),r,r,r,r,r,r,!0,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,"Email",!0,!0,!1,r,B.nA,r,r,r,r,r,r,r,r,r,r,r,r),!0,r,B.lc,r,r,r),B.yI,A.ho(A.apm(B.TG,s.gWL(),A.atr(r,r,B.cd,r,r,r,r,r,r,r,r,r,r,r,new A.c4(A.ek(15),B.q),r,r,r,r,r)),55,1/0)],n),B.aa,B.al,B.b5),r),8,r,new A.c4(o,B.q))],n),B.aa,B.al,B.b5),B.cb),r)}}
 A.nI.prototype={
 ak(){return new A.Cj()}}
 A.Cj.prototype={
@@ -82497,7 +82497,7 @@ A.PT.prototype={
 aA(){this.aQ()
 A.aE_(new A.aho(this),t.P)},
 K(a){var s,r=null,q=A.a74(a,!0,t.QA),p=t.D,o=A.WO(A.c([A.rc(r,r,B.Fa,r,r,new A.ahl(a,q),r,r,r)],p),!0,r,0,r,r,r,B.TP),n=A.ek(20)
-n=A.ny(r,A.iw(A.c([B.TB,B.dH,A.ea(B.j.k(q.b.length),r,r,r,B.Rt,r,r)],p),B.aa,B.al,B.b5),B.E,r,new A.dX(r,r,r,n,r,B.k7,B.bo),r,r,r,B.cb,r,r,1/0)
+n=A.ny(r,A.iw(A.c([B.TC,B.dH,A.ea(B.j.k(q.b.length),r,r,r,B.Rt,r,r)],p),B.aa,B.al,B.b5),B.E,r,new A.dX(r,r,r,n,r,B.k7,B.bo),r,r,r,B.cb,r,r,1/0)
 s=q.b.length
 return A.Lh(o,B.iW,new A.bU(B.n_,A.iw(A.c([n,B.l3,A.atw(s===0?A.iv(A.iw(B.H_,B.aa,B.eI,B.b5),r,r):A.apM(new A.ahm(q),s))],p),B.aa,B.al,B.b5),r),new A.r4(B.F8,B.cd,new A.ahn(a),B.Tw,r))}}
 A.aho.prototype={
@@ -82540,7 +82540,7 @@ A.aMg(new A.ahg(s,this.b,this.c),s,t.z)},
 $S:0}
 A.ahg.prototype={
 $1(a){var s=A.ek(15),r=this.a
-return new A.qj(B.Tz,B.TD,A.c([A.aqo(B.TH,new A.ahe(r),null),A.apm(B.TL,new A.ahf(this.b,this.c,r),null)],t.D),new A.c4(s,B.q),null)},
+return new A.qj(B.Tz,B.TE,A.c([A.aqo(B.TI,new A.ahe(r),null),A.apm(B.TL,new A.ahf(this.b,this.c,r),null)],t.D),new A.c4(s,B.q),null)},
 $S:516}
 A.ahe.prototype={
 $0(){A.eD(this.a,!1).nU(null)},
@@ -82613,7 +82613,7 @@ this.a0t()},
 K(a){var s=null,r=t.Y,q=this.d
 q===$&&A.a()
 q=A.cu(B.jd,q,s)
-return A.Lh(s,s,A.ny(s,A.iv(A.a8V(A.iw(A.c([A.ny(s,B.F2,B.E,s,new A.dX(A.aN(38,B.k.C()>>>16&255,B.k.C()>>>8&255,B.k.C()&255),s,s,s,s,s,B.fh),s,s,s,B.En,s,s,s),B.O9,B.TI,B.dH,B.TN,B.Oa,B.BK],t.D),B.aa,B.eI,B.b5),new A.ak(q,new A.al(0.5,1,r),r.i("ak<ae.T>"))),s,s),B.E,s,B.Ap,s,s,s,s,s,s,1/0),s)}}
+return A.Lh(s,s,A.ny(s,A.iv(A.a8V(A.iw(A.c([A.ny(s,B.F2,B.E,s,new A.dX(A.aN(38,B.k.C()>>>16&255,B.k.C()>>>8&255,B.k.C()&255),s,s,s,s,s,B.fh),s,s,s,B.En,s,s,s),B.O9,B.TA,B.dH,B.TN,B.Oa,B.BK],t.D),B.aa,B.eI,B.b5),new A.ak(q,new A.al(0.5,1,r),r.i("ak<ae.T>"))),s,s),B.E,s,B.Ap,s,s,s,s,s,s,1/0),s)}}
 A.alq.prototype={
 $0(){var s,r,q=this.a.c
 q.toString
@@ -85976,8 +85976,8 @@ B.Gy=s([B.F4,B.dH,B.TJ],t.D)
 B.Db=new A.nv(B.ae,B.eI,B.b5,B.aa,null,B.bv,null,0,B.Gy,null)
 B.BH=new A.jy(B.U,null,null,B.Db,null)
 B.S0=new A.j(!0,null,null,null,null,null,18,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
-B.TE=new A.cO("No Student Found",null,B.S0,null,null,null,null,null,null)
-B.mk=new A.jy(B.U,null,null,B.TE,null)
+B.TF=new A.cO("No Student Found",null,B.S0,null,null,null,null,null,null)
+B.mk=new A.jy(B.U,null,null,B.TF,null)
 B.BI=new A.vZ(null,null,null,null,null,null,null,null,null)
 B.d4=new A.qx(0,"none")
 B.d5=new A.qx(1,"isTrue")
@@ -86081,8 +86081,8 @@ B.H2=s([B.F3,B.dH,B.TK,B.Ob,B.TO],t.D)
 B.Da=new A.nv(B.ae,B.al,B.b5,B.aa,null,B.bv,null,0,B.H2,null)
 B.EY=new A.dv(58514,"MaterialIcons",!1)
 B.F7=new A.e_(B.EY,70,B.k,null,null)
-B.TC=new A.cO("Add New Student",null,B.z9,null,null,null,null,null,null)
-B.HD=s([B.F7,B.dH,B.TC],t.D)
+B.TD=new A.cO("Add New Student",null,B.z9,null,null,null,null,null,null)
+B.HD=s([B.F7,B.dH,B.TD],t.D)
 B.Dc=new A.nv(B.ae,B.al,B.b5,B.aa,null,B.bv,null,0,B.HD,null)
 B.fB=new A.hb(0,"cut")
 B.fC=new A.hb(1,"copy")
@@ -87958,9 +87958,9 @@ B.Ol=new A.j4(3,"hide")
 B.X8=new A.j4(4,"remove")
 B.Om=new A.j4(5,"timeout")
 B.On=new A.tf(null,null,null,null,null,null,null,null,null,null,null,null,null,null)
-B.TA=new A.cO("Please fill all fields",null,null,null,null,null,null,null,null)
+B.TB=new A.cO("Please fill all fields",null,null,null,null,null,null,null,null)
 B.E0=new A.aS(4e6)
-B.yK=new A.pl(B.TA,null,null,null,null,null,null,null,null,null,null,null,null,B.E0,!1,null,null,null,B.a_,null)
+B.yK=new A.pl(B.TB,null,null,null,null,null,null,null,null,null,null,null,null,B.E0,!1,null,null,null,B.a_,null)
 B.yL=new A.Ar(0,"permissive")
 B.Oo=new A.Ar(1,"normal")
 B.Op=new A.Ar(2,"forced")
@@ -88329,14 +88329,14 @@ B.Tw=new A.cO("Add Student",null,B.le,null,null,null,null,null,null)
 B.zb=new A.j(!0,B.k,null,null,null,null,18,B.bP,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
 B.Ty=new A.cO("Update Student",null,B.zb,null,null,null,null,null,null)
 B.Tz=new A.cO("Delete Student",null,null,null,null,null,null,null,null)
-B.Rv=new A.j(!0,B.k,null,null,null,null,18,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
-B.TB=new A.cO("Total Students",null,B.Rv,null,null,null,null,null,null)
-B.TD=new A.cO("Are you sure you want to delete this student?",null,null,null,null,null,null,null,null)
-B.TF=new A.cO("Save Student",null,B.zb,null,null,null,null,null,null)
-B.TG=new A.cO("Add Student",null,null,null,null,null,null,null,null)
-B.TH=new A.cO("Cancel",null,null,null,null,null,null,null,null)
 B.R2=new A.j(!0,B.k,null,null,null,null,36,B.bP,null,1,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
-B.TI=new A.cO("StudentSphere",null,B.R2,null,null,null,null,null,null)
+B.TA=new A.cO("StudentSpher",null,B.R2,null,null,null,null,null,null)
+B.Rv=new A.j(!0,B.k,null,null,null,null,18,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
+B.TC=new A.cO("Total Students",null,B.Rv,null,null,null,null,null,null)
+B.TE=new A.cO("Are you sure you want to delete this student?",null,null,null,null,null,null,null,null)
+B.TG=new A.cO("Save Student",null,B.zb,null,null,null,null,null,null)
+B.TH=new A.cO("Add Student",null,null,null,null,null,null,null,null)
+B.TI=new A.cO("Cancel",null,null,null,null,null,null,null,null)
 B.TL=new A.cO("Delete",null,null,null,null,null,null,null,null)
 B.TM=new A.cO("Update Student",null,null,null,null,null,null,null,null)
 B.Q2=new A.j(!0,B.J,null,null,null,null,18,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
